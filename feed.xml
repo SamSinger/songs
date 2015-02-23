@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam&#39;s Blog</title>
-    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://example.com/</link>
+    <atom:link href="http://example.com/songs/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://example.com/songs/</link>
     <description>A website with blog posts and pages</description>
-    <pubDate>Mon, 23 Feb 2015 13:18:18 -0600</pubDate>
+    <pubDate>Mon, 23 Feb 2015 13:48:19 -0600</pubDate>
     
       <item>
         <title>End of Week One</title>
-        <link>http://example.com/2015/02/23/end-of-week-one.html</link>
-        <guid isPermaLink="true">http://example.com/2015/02/23/end-of-week-one.html</guid>
+        <link>http://example.com/songs/2015/02/23/end-of-week-one.html</link>
+        <guid isPermaLink="true">http://example.com/songs/2015/02/23/end-of-week-one.html</guid>
         <description>&lt;p&gt;The first week in course 4 has been very exciting for me!  I’ve beend anticipating the coming of TDD and it finally arrived.  I can read through an existing test and understand what’s going on.  I’m not yet able to say that I can write the types of we worked on this week from start to finish with no help.&lt;/p&gt;
 
 &lt;p&gt;I’ve also enjoyed learning HAML.  I’ve never worked with Haml, but I really like the consiseness of the markup. I heard Hampton Catlin, the creator of Haml and Sass speak at WebAfternoon last year and he is very outspoken.  I’ve signed up for Sass Camp in Atlanta in April.  He is speaking there too.&lt;/p&gt;
