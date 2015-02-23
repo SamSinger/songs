@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sam Singer</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Feb 2015 15:39:07 -0600</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2015 15:39:07 -0600</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <title>Sam&#39;s Blog</title>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://example.com/</link>
+    <description>A website with blog posts and pages</description>
+    <pubDate>Mon, 23 Feb 2015 13:18:18 -0600</pubDate>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>End of Week One</title>
+        <link>http://example.com/2015/02/23/end-of-week-one.html</link>
+        <guid isPermaLink="true">http://example.com/2015/02/23/end-of-week-one.html</guid>
+        <description>&lt;p&gt;The first week in course 4 has been very exciting for me!  I’ve beend anticipating the coming of TDD and it finally arrived.  I can read through an existing test and understand what’s going on.  I’m not yet able to say that I can write the types of we worked on this week from start to finish with no help.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;I’ve also enjoyed learning HAML.  I’ve never worked with Haml, but I really like the consiseness of the markup. I heard Hampton Catlin, the creator of Haml and Sass speak at WebAfternoon last year and he is very outspoken.  I’ve signed up for Sass Camp in Atlanta in April.  He is speaking there too.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;This week also stretched my Github skills.  I had to learn how to create Pull Requests.  We also worked with Github branches. I learned how to use branch in terminal to change branches and view branches.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I had more learning to do when it came to this blog.  I didn’t have a blog for tech so I decided to leverage my Github account and build the site in Jekyll.  I’ve never used Jekyll before, but after my experience with Haml, I was confident enough to give it a try.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I found that Jekyll is designed to create a static pages site.  I is designed to incorporate Sass.&lt;/p&gt;
+
+&lt;p&gt;Jeykll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting.&lt;/p&gt;
+
+&lt;p&gt;Time to move on to week two.  I expect there is much more waiting for me to learn! &lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 20 Feb 2015 09:02:05 -0600</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/02/20/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/02/20/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
+        <pubDate>Mon, 23 Feb 2015 00:00:00 -0600</pubDate>
       </item>
     
   </channel>
